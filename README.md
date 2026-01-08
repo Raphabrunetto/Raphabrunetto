@@ -1,19 +1,18 @@
 <div align="center">
   
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Banner Futurista Dark" style="border-radius: 10px;"/>
+  <img src="Gemini_Generated_Image_tswzy1tswzy1tswz.png" width="100%" alt="Banner Futurista Dark" style="border-radius: 10px;"/>
 
-  <br/><br/>
+  <h1>Olá, eu sou <a href="https://seu-site.com" target="_blank" style="color: #ffffff; text-decoration: none;">Raphael Brunetto!</a></h1>
 
-  <h1>Olá, eu sou <a href="https://seu-site.com" target="_blank" style="color: #ffffff; text-decoration: none;">SEU NOME</a></h1>
-  
-  <p style="font-size: 1.2rem; font-weight: bold; color: #bbbbbb;">
-    DESENVOLVEDOR FULLSTACK | UI DESIGNER | CREATIVE CODER
-  </p>
-
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=DDDDDD&background=00000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Especialista+em+React+e+Node.js;Focado+em+Clean+Code+e+Performance;Criando+solu%C3%A7%C3%B5es+escal%C3%A1veis." alt="Typing SVG" />
+  </a>
+  <br/>
   <br/>
 
   <p align="center" style="max-width: 600px;">
-    Transformo café em código limpo e escalável. Meu foco é criar experiências digitais minimalistas com alta performance. Atualmente focado em arquitetura de microsserviços e design systems.
+    Transformo café em código limpo e escalável. Meu foco é criar experiências digitais de alta performance e evoluir meus conhecimentos.
   </p>
 
   <br/><br/>
@@ -31,25 +30,25 @@
 
   <br/><br/>
 
+  <div align="center">
   <h3>D A T A</h3>
   
-  <p align="center">
-    <a href="https://github.com/SEU_USUARIO">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=999999&bg_color=0d1117" alt="Stats" />
+  <p>
+    <a href="https://github.com/Raphabrunetto">
+      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raphabrunetto&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=999999&bg_color=0d1117" alt="Rapha's Stats" />
     </a>
-    <a href="https://github.com/SEU_USUARIO">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&title_color=ffffff&text_color=999999&bg_color=0d1117" alt="Languages" />
+    <a href="https://github.com/Raphabrunetto">
+      <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raphabrunetto&layout=compact&hide_border=true&title_color=ffffff&text_color=999999&bg_color=0d1117" alt="Rapha's Top Languages" />
     </a>
   </p>
 
-  <br/><br/>
+  <br/>
 
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/raphael-brunetto-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-white?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:raphabrunetto@gmail.com">
     <img src="https://img.shields.io/badge/Email-Fale_Comigo-white?style=social&logo=gmail" alt="Email"/>
   </a>
-
 </div>
